@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon COBOL bug involving an unexpected counter value within a PERFORM...VARYING loop. The bug is subtle and might arise from incorrect loop termination condition or counter incrementation logic. The solution shows how to correct the issue and ensure the counter variable is correctly updated to produce the intended result.
